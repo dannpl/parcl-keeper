@@ -3,7 +3,7 @@
 <h1>Parcl Keeper</h1>
 </div>
 
-Example parcl-v3 keeper bots written in TypeScript.
+Example parcl-v3 keeper bots written in Rust and TypeScript.
 
 ## Keepers
 
